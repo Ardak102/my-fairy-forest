@@ -23,6 +23,12 @@ body {
 	line-height: 1.55;
 	overflow-x: hidden;
 }
+
+::-webkit-scrollbar {
+  width: 0;
+}
+
+
 .main-header {
 	position: relative;
 }
